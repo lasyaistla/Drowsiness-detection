@@ -121,6 +121,11 @@ while True:
 cap.release()
 4. Observe the Output
 The system will display the video frames with the Eye Aspect Ratio (EAR) value on the screen. If drowsiness is detected, a DROWSINESS ALERT will be shown on the frame.
+#Adding few output picture i used 1min long video as an input.
+
+![Screenshot 2025-01-31 184418](https://github.com/user-attachments/assets/83198eb9-dc09-4976-afe9-4263272e8521)
+![Screenshot 2025-01-31 184505](https://github.com/user-attachments/assets/3baf7d3d-1352-41de-941a-79aa1ead47c4)
+![Screenshot 2025-01-31 184525](https://github.com/user-attachments/assets/4d9d7f80-a0f0-4fec-8808-cd35322af9f8)
 
 Requirements
 Python 3.x
