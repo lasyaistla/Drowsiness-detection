@@ -10,7 +10,7 @@ Installation
 1. Clone the repository
 bash
 Copy
-git clone https://github.com/your_username/drowsiness-detection.git
+git clone(https://github.com/lasyaistla/Drowsiness-detection)
 cd drowsiness-detection
 2. Install the necessary dependencies
 Run the following command to install the required packages:
